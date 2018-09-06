@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+nav {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+}
+
+nav li {
+  float: left;
+  display: inline;
+}
+
+nav li a {
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
