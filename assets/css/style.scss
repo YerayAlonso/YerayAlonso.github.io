@@ -22,14 +22,18 @@ nav li {
 }
 
 nav li a {
-    display: inline-block;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 .page-header {
-    background-color: #fff;
-    background-image: url(https://c1.staticflickr.com/5/4530/38075195406_f4b19e18b4_b.jpg);
-    background-size: cover;
+  background-color: #fff;
+  background-image: url(/assets/computer.jpg);
+  background-size: cover;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #272C32;
 }
