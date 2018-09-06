@@ -17,32 +17,32 @@ The virtual machine:
 
 | | CPU | RAM
 | -- | -- | -- |
-Ubuntu (Gnome) 18.04.1 | 3% | 1.6GB
+Ubuntu (Gnome) 18.04.1 | 3% | 1.6 GB
 Ubuntu (Gnome) 17.10 | 10% | 1.4 GB
-Ubuntu Mate 18.04 | 1% | 1.3GB
-Ubuntu Gnome 16.04 | 22% | 1.2GB
-DeepIn 15.5 | 24% | 1.1GB
-ElementaryOS 0.4.1 | 7% | 1.1GB
-Ubuntu (Unity) 16.04 | 28%| 1GB
-Ubuntu Mate 17.10 | 6% | 990MB
-Kubuntu 16.04 | 8% | 950MB
-DeepIn 15.6 | 2% | 936MB
-Kubuntu 15.10 | 10% | 900MB
-Debian Mate 9.3 | 10% | 890MB
-Ubuntu Gnome 15.10 | 20% | 850MB
-DeepIn 15.7 | 2% | 814MB
-Kubuntu 18.04.1 | 2% | 810MB
-Lubuntu 18.04	| 0% | 758MB
-Kubuntu 17.10	| 8% | 740MB
-Ubuntu (Unity) 15.10 | 27% | 727MB
-Ubuntu (Unity) 14.04.3 | 28% | 728MB
-Xubuntu 17.10 | 8% | 675MB
-KDE Neon 180301 | 13% | 660MB
-Ubuntu Mate 16.04 | 9% | 645MB
-Ubuntu Mate 15.10 | 12% | 606MB
-Lubuntu 17.10 | 4% | 570MB
-Ubuntu 14.04.3 lxde | 8% | 565MB
-Xubuntu 16.04 | 8% | 550MB
+Ubuntu Mate 18.04 | 1% | 1.3 GB
+Ubuntu Gnome 16.04 | 22% | 1.2 GB
+DeepIn 15.5 | 24% | 1.1 GB
+ElementaryOS 0.4.1 | 7% | 1.1 GB
+Ubuntu (Unity) 16.04 | 28%| 1 GB
+Ubuntu Mate 17.10 | 6% | 990 MB
+Kubuntu 16.04 | 8% | 950 MB
+DeepIn 15.6 | 2% | 936 MB
+Kubuntu 15.10 | 10% | 900 MB
+Debian Mate 9.3 | 10% | 890 MB
+Ubuntu Gnome 15.10 | 20% | 850 MB
+DeepIn 15.7 | 2% | 814 MB
+Kubuntu 18.04.1 | 2% | 810 MB
+Lubuntu 18.04	| 0% | 758 MB
+Kubuntu 17.10	| 8% | 740 MB
+Ubuntu (Unity) 15.10 | 27% | 727 MB
+Ubuntu (Unity) 14.04.3 | 28% | 728 MB
+Xubuntu 17.10 | 8% | 675 MB
+KDE Neon 180301 | 13% | 660 MB
+Ubuntu Mate 16.04 | 9% | 645 MB
+Ubuntu Mate 15.10 | 12% | 606 MB
+Lubuntu 17.10 | 4% | 570 MB
+Ubuntu 14.04.3 lxde | 8% | 565 MB
+Xubuntu 16.04 | 8% | 550 MB
 Xubuntu 15.10 | 5% | 553 MB
-Ubuntu 14.04.3 lxde without Unity | 9% | 383MB
-Lubuntu 15.10 | 7% | 380MB
+Ubuntu 14.04.3 lxde without Unity | 9% | 383 MB
+Lubuntu 15.10 | 7% | 380 MB
