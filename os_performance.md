@@ -1,6 +1,13 @@
 There are many linux distributions out there, I've tested some of the full-featured to compare them to try to find which one consumes less memory and CPU, at least running in a virtual machine.  
 Trying to be as fair as possible, I'm always installing the machines into a virtual machine under a Windows 10 x64.
 
+I'm always taking the numbers with a few programs opened:
+- LibreOffice Writter with a blank document
+- Firefox: w3schools.com (found google.com takes a looot or CPU)
+- File explorer: Home
+- Terminal: uname -a
+- System Monitor
+
 The physical machine:
 - CPU: Intel i7 4771
 - Motherboard: Gigabyte Z87-HD3
