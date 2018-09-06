@@ -1,5 +1,11 @@
-Hello from my page
+## Here the blob posts
 
 <hr>
 
-[OS performance comparison](os_performance.md)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
