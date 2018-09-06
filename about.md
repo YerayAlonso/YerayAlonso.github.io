@@ -6,9 +6,9 @@ title:  "About me"
 
 <img src="https://avatars2.githubusercontent.com/u/1788228?s=460&v=4" width="200">
 
-I was born in Barcelona ('82) and moved into Girona to study Computer Systems Engineering (ETIS) at the University of Girona, the city where I still live.
+I was born in Barcelona ('82) and moved into [Girona](https://goo.gl/maps/2dL9W7J7LHA2) to study Computer Systems Engineering (ETIS) at the [University of Girona](https://www.udg.edu/ca/), the city where I still live.
 
-I started working for [Steema Software](https://www.steema.com/) on 2006 and they still trust in me.
+Working for [Steema Software](https://www.steema.com/) since 2006; helping customers in the [suppot forums](https://www.steema.com/support), and helping to improve TeeChart, TeeBI and TeeGrid in all their flavours - but specially coding in **Delphi** and **Java** for the charting components.
 
 ### Other interests and activities
 
