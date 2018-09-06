@@ -2,6 +2,18 @@
 title:  "About me"
 ---
 
+### Specs
+
+<img src="https://avatars2.githubusercontent.com/u/1788228?s=460&v=4" width="200">
+
+I was born in Barcelona ('82) and moved into Girona to study Computer Systems Engineering (ETIS) at the University of Girona, the city where I still live.
+
+I started working for [Steema Software](https://www.steema.com/) on 2006 and they still trust in me.
+
+### Other interests and activities
+
+I like traveling, listening punk-rock and gaming racing&strategy games.
+
 ### Find me at
 
 - [Twitter](https://twitter.com/Norike_82)
