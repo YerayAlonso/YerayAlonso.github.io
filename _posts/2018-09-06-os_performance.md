@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "OS performance comparison"
+categories: [blog, comparison]
+tags: [hot, comparison, linux, performance]
+---
+
 There are many linux distributions out there, I've tested some of the full-featured to compare them to try to find which one consumes less memory and CPU, at least running in a virtual machine.  
 Trying to be as fair as possible, I'm always installing the machines into a virtual machine under a Windows 10 x64.
 
