@@ -31,6 +31,8 @@ The virtual machine:
   - 3D acceleration: activated
 - Disk: 200GB
 
+<div class="infogram-embed" data-id="951aa4e9-e735-4bba-b513-3bb73d8fe6fd" data-type="interactive" data-title="Performance of Linux Distributions"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t)[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=d+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var a=e.createElement(t);a.async=1,a.id=n,a.src=s,o.parentNode.insertBefore(a,o)}}(document,"script","infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/951aa4e9-e735-4bba-b513-3bb73d8fe6fd" style="color:#989898!important;text-decoration:none!important;" target="_blank">Performance of Linux Distributions</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
 | | CPU | RAM
 | -- | -- | -- |
 Ubuntu (Gnome) 18.04.1 | 3% | 1.6 GB
