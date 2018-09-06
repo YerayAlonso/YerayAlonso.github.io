@@ -4,9 +4,24 @@ categories: [blog, comparison]
 tags: [hot, comparison, linux, performance]
 ---
 
+## In this page
+
+- [Introduction](#introduction)
+- [Specifications](#specifications)
+- [Comparison](#comparison)
+- [The data](#the-data)
+
+## Introduction
+
 There are many linux distributions out there! I've tested some of the full-featured Debian/Ubuntu based to compare them to try to find which one consumes less memory and CPU, at least running in a virtual machine.
 
 Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio) sometimes you want to test how your project performs or looks in linux. For these scenario, a virtual machine where you can easyly install [PAServer](http://docwiki.embarcadero.com/RADStudio/Tokyo/en/Installing_the_Platform_Assistant_on_Linux) or [mono](https://www.mono-project.com/download/stable/#download-lin-ubuntu) helps a lot. And you don't want that virtual machine to take much memory or CPU from your phisical machine...
+
+## Comparison
+
+<div class="infogram-embed" data-id="951aa4e9-e735-4bba-b513-3bb73d8fe6fd" data-type="interactive" data-title="Performance of Linux Distributions"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t)[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=d+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var a=e.createElement(t);a.async=1,a.id=n,a.src=s,o.parentNode.insertBefore(a,o)}}(document,"script","infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
+
+## Specifications
 
 Trying to be as fair as possible, I'm always installing the machines into a virtual machine under a Windows 10 x64.
 
@@ -31,7 +46,7 @@ The virtual machine:
   - 3D acceleration: activated
 - Disk: 200GB
 
-<div class="infogram-embed" data-id="951aa4e9-e735-4bba-b513-3bb73d8fe6fd" data-type="interactive" data-title="Performance of Linux Distributions"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t)[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=d+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var a=e.createElement(t);a.async=1,a.id=n,a.src=s,o.parentNode.insertBefore(a,o)}}(document,"script","infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
+## The data
 
 | | CPU | RAM
 | -- | -- | -- |
