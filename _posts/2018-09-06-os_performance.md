@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "OS performance comparison"
 categories: [blog, comparison]
 tags: [hot, comparison, linux, performance]
