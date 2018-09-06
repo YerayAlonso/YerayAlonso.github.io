@@ -1,4 +1,9 @@
-## Here the blob posts
+## Welcome
+
+Welcome to my personal page.  
+I'm Yeray Alonso, a developer working for [Steema Software](https://www.steema.com), living in Girona.
+
+## Here the blog posts
 
 <hr>
 
