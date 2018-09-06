@@ -4,7 +4,9 @@ categories: [blog, comparison]
 tags: [hot, comparison, linux, performance]
 ---
 
-There are many linux distributions out there, I've tested some of the full-featured to compare them to try to find which one consumes less memory and CPU, at least running in a virtual machine.  
+There are many linux distributions out there! I've tested some of the full-featured Debian/Ubuntu based to compare them to try to find which one consumes less memory and CPU, at least running in a virtual machine.  
+Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio) sometimes you want to test how your project performs or looks in linux. For these scenario, a virtual machine where you can easyly install PAServer or mono helps a lot. And you don't want that virtual machine to take much memory or CPU from your phisical machine...
+
 Trying to be as fair as possible, I'm always installing the machines into a virtual machine under a Windows 10 x64.
 
 I'm always taking the numbers with a few programs opened:
