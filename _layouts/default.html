@@ -26,10 +26,10 @@
         <ul>
           <li><a href="/">Home</a></li>
           <li><a href="/about.html">About</a></li>
-          <li style="float:right"><a class="fa fa-github" href="https://github.com/YerayAlonso/"></a></li>
-          <li style="float:right"><a class="fa fa-twitter" href="https://twitter.com/Norike_82"></a></li>
-          <li style="float:right"><a class="fa fa-facebook" href="https://www.facebook.com/yeray.norike"></a></li>
           <li style="float:right"><a class="fa fa-linkedin" href="https://www.linkedin.com/in/yerayalonso"></a></li>
+          <li style="float:right"><a class="fa fa-facebook" href="https://www.facebook.com/yeray.norike"></a></li>
+          <li style="float:right"><a class="fa fa-twitter" href="https://twitter.com/Norike_82"></a></li>
+          <li style="float:right"><a class="fa fa-github" href="https://github.com/YerayAlonso/"></a></li>        
         </ul>
       </div>
     </nav>
@@ -40,7 +40,7 @@
       </header>
     {% endif %}
 
-    <main id="content" class="main-content" role="main">
+    <main id="content" class="main-content" role="main" {% if page.url != "/" %} style="padding-top: 4rem" {% endif %}>
       {{ content }}
 
       <footer class="site-footer">
