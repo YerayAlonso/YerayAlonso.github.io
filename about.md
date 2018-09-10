@@ -13,9 +13,3 @@ Working for [Steema Software](https://www.steema.com/) since 2006; helping custo
 ### Other interests and activities
 
 I like traveling, listening punk-rock and gaming racing&strategy games.
-
-### Find me at
-
-- [Twitter](https://twitter.com/Norike_82)
-- [Facebook](https://www.facebook.com/yeray.norike)
-- [LinkedIn](https://www.linkedin.com/in/yerayalonso)
