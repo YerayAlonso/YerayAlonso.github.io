@@ -15,6 +15,7 @@ I'm Yeray Alonso; a developer working for [Steema Software](https://www.steema.c
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
