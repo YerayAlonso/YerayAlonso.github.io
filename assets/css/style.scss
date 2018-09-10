@@ -4,6 +4,10 @@
 @import "{{ site.theme }}";
 
 nav {
+  background-color: #777A83;
+}
+
+nav div {
   max-width: 64rem;
   margin: 0 auto;
 }
@@ -26,6 +30,7 @@ nav li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  color: white;
 }
 
 .page-header {
