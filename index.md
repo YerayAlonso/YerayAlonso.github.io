@@ -5,9 +5,9 @@ title: "Home"
 ## Welcome
 
 Welcome to my personal page!  
-I'm Yeray Alonso; a developer working for [Steema Software](https://www.steema.com), living in Girona. More about me [here](about.md).
+As you deduced from the url, my name is Yeray Alonso. If you want to know a few bits more about me, you can jump [here](about.md).
 
-## Here my blog posts
+## Here the blog posts
 
 <hr>
 
