@@ -23,7 +23,10 @@ Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio)
 
 Here's a chart comparing the tested distributions:
 
-<div class="infogram-embed" data-id="951aa4e9-e735-4bba-b513-3bb73d8fe6fd" data-type="interactive" data-title="Performance of Linux Distributions"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t)[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(s)&&(s=d+s),window[i]&&window[i].initialized)window[i].process&&window[i].process();else if(!e.getElementById(n)){var a=e.createElement(t);a.async=1,a.id=n,a.src=s,o.parentNode.insertBefore(a,o)}}(document,"script","infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
+<div>
+    <a href="https://plot.ly/~norike/2/?share_key=WExi0zGekCmfmUJGVPywdb" target="_blank" title="Plot 2" style="display: block; text-align: center;"><img src="https://plot.ly/~norike/2.png?share_key=WExi0zGekCmfmUJGVPywdb" alt="Plot 2" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="norike:2" sharekey-plotly="WExi0zGekCmfmUJGVPywdb" src="https://plot.ly/embed.js" async></script>
+</div>
 
 ## Specifications
 
