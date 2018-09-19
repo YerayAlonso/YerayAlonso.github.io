@@ -17,11 +17,11 @@ There are many linux distributions out there! I've tested some of the full-featu
 
 ## Introduction
 
-Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio) sometimes you want to test how your project performs or looks in linux. For these scenario, a virtual machine where you can easyly install [PAServer](http://docwiki.embarcadero.com/RADStudio/Tokyo/en/Installing_the_Platform_Assistant_on_Linux) or [mono](https://www.mono-project.com/download/stable/#download-lin-ubuntu) helps a lot. And you don't want that virtual machine to take much memory or CPU from your phisical machine...
+Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio) sometimes you want to test how your project performs or looks in linux. For these scenario, a virtual machine where you can easily install [PAServer](http://docwiki.embarcadero.com/RADStudio/Tokyo/en/Installing_the_Platform_Assistant_on_Linux) or [mono](https://www.mono-project.com/download/stable/#download-lin-ubuntu) helps a lot. And you don't want that virtual machine to take much memory or CPU from your physical machine...
 
 ## Comparison
 
-Here's a chart comparing the tested distributions:
+Here's a chart comparing the memory taken in the tested distributions:
 
 <div>
     <a href="https://plot.ly/~norike/2/?share_key=WExi0zGekCmfmUJGVPywdb" target="_blank" title="Plot 2" style="display: block; text-align: center;"><img src="https://plot.ly/~norike/2.png?share_key=WExi0zGekCmfmUJGVPywdb" alt="Plot 2" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -34,7 +34,7 @@ Trying to be as fair as possible, I'm always installing the machines into a virt
 
 I'm always taking the numbers with a few programs opened:
 - LibreOffice Writter with a blank document
-- Firefox: w3schools.com (found google.com takes a looot or CPU)
+- Firefox: w3schools.com (found google.com takes a looot or CPU in some cases)
 - File explorer: Home
 - Terminal: uname -a
 - System Monitor
