@@ -1,5 +1,5 @@
 ---
-title:  "OS performance comparison"
+title:  "Linux performance comparison"
 categories: [blog, comparison]
 tags: [hot, comparison, linux, performance]
 ---
