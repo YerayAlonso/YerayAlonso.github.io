@@ -24,6 +24,13 @@ Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio)
 Here's a chart comparing the memory taken in the tested distributions:
 
 <div>
+    <a href="https://plot.ly/~norike/16/?share_key=wmTnkYFGbHxCISYTURmpR9" target="_blank" title="Plot 16" style="display: block; text-align: center;"><img src="https://plot.ly/~norike/16.png?share_key=wmTnkYFGbHxCISYTURmpR9" alt="Plot 16" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="norike:16" sharekey-plotly="wmTnkYFGbHxCISYTURmpR9" src="https://plot.ly/embed.js" async></script>
+</div>
+
+Here the Historic:
+
+<div>
     <a href="https://plot.ly/~norike/2/?share_key=WExi0zGekCmfmUJGVPywdb" target="_blank" title="Plot 2" style="display: block; text-align: center;"><img src="https://plot.ly/~norike/2.png?share_key=WExi0zGekCmfmUJGVPywdb" alt="Plot 2" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="norike:2" sharekey-plotly="WExi0zGekCmfmUJGVPywdb" src="https://plot.ly/embed.js" async></script>
 </div>
