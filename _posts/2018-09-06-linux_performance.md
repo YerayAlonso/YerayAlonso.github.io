@@ -4,7 +4,7 @@ categories: [blog, comparison]
 tags: [hot, comparison, linux, performance]
 ---
 
-There are many linux distributions out there! I've tested some of the full-featured Debian/Ubuntu based to compare them to try to find which one consumes less memory and CPU, at least running in a virtual machine.
+There are many linux distributions out there! I've tested some of the full-featured Debian/Ubuntu based to compare them to try to find which one consumes less memory, at least running in a virtual machine.
 
 <!--more-->
 
@@ -16,7 +16,7 @@ There are many linux distributions out there! I've tested some of the full-featu
 
 ## Introduction
 
-Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio) sometimes you want to test how your project performs or looks in linux. For these scenario, a virtual machine where you can easily install [PAServer](http://docwiki.embarcadero.com/RADStudio/Rio/en/Installing_the_Platform_Assistant_on_Linux) or [mono](https://www.mono-project.com/download/stable/#download-lin-ubuntu) helps a lot. And you don't want that virtual machine to take much memory or CPU from your physical machine...
+Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio) sometimes you want to test how your project performs or looks in linux. For these scenario, a virtual machine where you can easily install [PAServer](http://docwiki.embarcadero.com/RADStudio/Rio/en/Installing_the_Platform_Assistant_on_Linux) or [mono](https://www.mono-project.com/download/stable/#download-lin-ubuntu) helps a lot. And you don't want that virtual machine to take much memory from your physical machine...
 
 ## Comparison
 
