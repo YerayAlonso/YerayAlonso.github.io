@@ -16,7 +16,7 @@ There are many linux distributions out there! I've tested some of the full-featu
 
 ## Introduction
 
-Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio) sometimes you want to test how your project performs or looks in linux. For these scenario, a virtual machine where you can easily install [PAServer](http://docwiki.embarcadero.com/RADStudio/Rio/en/Installing_the_Platform_Assistant_on_Linux) or [mono](https://www.mono-project.com/download/stable/#download-lin-ubuntu) helps a lot. And you don't want that virtual machine to take much memory from your physical machine...
+Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio) sometimes you want to test how your project performs or looks in linux. For these scenario, a virtual machine where you can easily install [PAServer](https://docwiki.embarcadero.com/RADStudio/en/Special:Search/Installing%20the%20Platform%20Assistant%20on%20Linux) or [mono](https://www.mono-project.com/download/stable/#download-lin-ubuntu) helps a lot. And you don't want that virtual machine to take much memory from your physical machine...
 
 ## Comparison
 
