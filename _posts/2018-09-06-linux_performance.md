@@ -39,11 +39,13 @@ Here the Historic:
 Trying to be as fair as possible, I'm always installing the machines into a virtual machine under a Windows 10 x64.
 
 I'm always taking the numbers with a few programs opened:
-- LibreOffice Writter with a blank document
-- Firefox: w3schools.com (found google.com takes a looot or CPU in some cases)
 - File explorer: Home
 - Terminal: uname -a
 - System Monitor
+
+Before 2020, I also had these programs opened:
+- LibreOffice Writter with a blank document
+- Firefox: w3schools.com (found google.com takes a looot or CPU in some cases)
 
 The physical machine:
 - CPU: Intel i7 4771
