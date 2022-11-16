@@ -36,14 +36,18 @@ Here the Historic:
 
 ## Specifications
 
-Trying to be as fair as possible, I'm always installing the machines into a virtual machine under a Windows 10 x64.
+Trying to be as fair as possible, I'm always installing the machines into a virtual machine under a Windows 10 x64.  
+I don't apply updates to compare how distributions were at their time.  
+I set the display resolution to 1280x800.
 
-I'm always taking the numbers with a few programs opened:
+Programs open:
+- File explorer: Home
+- Terminal: htop
+
+Before 2020, these were the programs opened. I simplified that because in some versions the system monitor or firefox takes a lot of memory:
 - File explorer: Home
 - Terminal: uname -a
 - System Monitor
-
-Before 2020, I also had these programs opened:
 - LibreOffice Writter with a blank document
 - Firefox: w3schools.com (found google.com takes a looot or CPU in some cases)
 
@@ -58,5 +62,5 @@ The virtual machine:
 - CPU: 2
 - Screen
   - Memory: 128MB
-  - 3D acceleration: activated
+  - 3D acceleration: activated where possible
 - Disk: 200GB
