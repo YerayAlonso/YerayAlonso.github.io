@@ -1,7 +1,7 @@
 ---
 title:  "Linux performance comparison"
 categories: [blog, comparison]
-tags: [hot, comparison, linux, performance]
+tags: [hot, comparison, linux, performance, memory, htop]
 ---
 
 There are many linux distributions out there! I've tested some of the full-featured Debian/Ubuntu based to compare them to try to find which one consumes less memory, at least running in a virtual machine.
@@ -20,7 +20,7 @@ Why Debian/Ubuntu based? Developing under Windows (RAD Studio and Visual Studio)
 
 ## Comparison
 
-Here's a chart comparing the memory taken in the tested distributions:
+Here's a chart comparing the memory taken in the latest tested distributions:
 
 <div>
     <a href="https://plot.ly/~norike/16/?share_key=wmTnkYFGbHxCISYTURmpR9" target="_blank" title="Plot 16" style="display: block; text-align: center;"><img src="https://plot.ly/~norike/16.png?share_key=wmTnkYFGbHxCISYTURmpR9" alt="Plot 16" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -63,4 +63,4 @@ The virtual machine:
 - Screen
   - Memory: 128MB
   - 3D acceleration: activated where possible
-- Disk: 200GB
+- Disk: 100GB
