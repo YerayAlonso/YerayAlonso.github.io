@@ -9,7 +9,7 @@ This is my solution for a [challenge from @devchallenges](https://legacy.devchal
 <!--more-->
 
 You can se the result deployed here:  
-[https://image-uploader-ashen.vercel.app/)
+[https://image-uploader-ashen.vercel.app/](https://image-uploader-ashen.vercel.app/)
 
 ## Solution
 
