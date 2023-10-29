@@ -4,10 +4,10 @@ title: "Home"
 
 ## Welcome
 
-Welcome to my personal page!  
-As you deduced from the url, my name is Yeray Alonso. If you want to know a few bits more about me, you can jump [here](about.md).
+Hello 👋🏼!  
+My name is Yeray Alonso. If you want to know a few bits more about me, you can jump [here](about.md).
 
-## Here the blog posts
+## Latest posts
 
 <hr>
 
