@@ -1,4 +1,12 @@
+---
+title:  "'Reading list' challenge"
+categories: [blog, challenge]
+tags: [hot, challenge, javascript, svelte, sveltekit]
+---
+
 This is my solution for a "technical test" challenge by @midudev.
+
+<!--more-->
 
 You can se the result deployed here:  
 https://mis-lecturas.vercel.app/
